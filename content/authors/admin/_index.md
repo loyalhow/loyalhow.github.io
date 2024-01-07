@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 刘昊
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Hao Liu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Hao
+last_name: Liu
 
 # Status emoji
 status:
@@ -17,34 +17,39 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Xi'an Jiaotong-Liverpool University
+    url: https://xjtlu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Biogeochemical processes across soil-water/air-water interfaces
+  - Lab automation and Internet-of-Things application for environmental studies
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Environmental Sciences
+      institution: Xi'an Jiaotong-Liverpool University
+      year: present
+    - course: MSc in Applied & Environmental Geosciences
+      institution: University of Tuebingen
+      year: 2015
+    - course: MSc in Water Science
+      institution: University of Duisburg-Essen
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BEng in Environmental Engineering
+      institution: Luebeck University of Applied Sciences
+      year: 2011
+    - course: BEng in Chemical Engineering
+      institution: East China University of Science and Technology
+      year: 2011
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
