@@ -42,14 +42,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
   - block: experience
     content:
       title: Experience
@@ -85,6 +77,14 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
   - block: collection
     content:
       title: Recent Publications
@@ -100,9 +100,9 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: featured
+    id: patent
     content:
-      title: Featured Publications
+      title: Patent
       filters:
         folders:
           - publication
