@@ -61,7 +61,12 @@ skills:
         percent: 95
         icon: print
         icon_pack: fab
-      - name: CNC & Laser Fabrication
+      - name: CNC & Laser
+        description: ''
+        percent: 70
+        icon: bars
+        icon_pack: fas
+      - name: Internet of Things
         description: ''
         percent: 70
         icon: bars
@@ -85,12 +90,16 @@ skills:
         percent: 85
         icon: database
         icon_pack: fas
-      - name: Data Science
+      - name: Adruino
         description: ''
-        percent: 50
+        percent: 80
         icon: chart-line
         icon_pack: fas
-
+      - name: Matlab
+        description: ''
+        percent: 40
+        icon: chart-line
+        icon_pack: fas
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -125,5 +134,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hao Liu is a PhD student of environmental sciences at eBiogeochem Lab, Xi'an Jiaotong-Liverpool University. His research interest includes greenhouse gas fluxes at soil-water/air-water interface, organic matters across soil-water interfaces, and lab automation in environmental sciences. He has developed a Cartesian robot system for investigating mesocosms and an automatic fluid control system for sampling porewaters.
 {style="text-align: justify;"}
