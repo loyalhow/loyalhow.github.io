@@ -100,9 +100,9 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: patent
+    id: patents
     content:
-      title: Patent
+      title: Patents
       filters:
         folders:
           - publication
@@ -235,7 +235,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        I expect to graduate in 2024, looking for offers of research jobs, for example, a postdoc position. 
       # Contact (add or remove contact options as necessary)
       email: hao.liu2002@student.xjtlu.edu.cn
       phone: 139 1864 8900
