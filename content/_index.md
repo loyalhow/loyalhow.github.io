@@ -237,24 +237,24 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: hao.liu2002@.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: hao.liu2002@student.xjtlu.edu.cn
+      phone: 139 1864 8900
+      # appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        street: 8 Chongwen Road
+        city: Suzhou
+        region: Jiangsu Province
+        postcode: '215123'
+        country: China
+        country_code: CN
+      directions: Enter Building ES and take the stairs to Office 352 on Floor 3
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+      # coordinates:
+      #  latitude: '37.4275'
+      #  longitude: '-122.1697'  
       contact_links:
       #  - icon: twitter
       #    icon_pack: fab
