@@ -63,18 +63,28 @@ sections:
           date_end: '2021-05-31'
           description: |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Team Lead, Operational Excellence
+          company: Supermonkey Fitness
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Shanghai
+          date_start: '2018-09-01'
+          date_end: '2019-10-01'
+          description: Led a team of 4 members
+        - title: Sourcing Specialist
+          company: Walmart Global Sourcing
+          company_url: ''
+          company_logo: org-x
+          location: Shanghai
+          date_start: '2016-05-01'
+          date_end: '2018-09-01'
+        - title: Consultant
+          company: Environmental Resource Management (ERM)
+          company_url: ''
+          company_logo: org-x
+          location: Shanghai
+          date_start: '2015-10-01'
+          date_end: '2016-04-01'
     design:
       columns: '2'
   - block: collection
