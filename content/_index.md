@@ -86,8 +86,9 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: featured
     content:
-      title: Recent Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -153,9 +154,9 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: Posts
+    id: posts
     content:
-      title: Recent Posts
+      title: Posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
