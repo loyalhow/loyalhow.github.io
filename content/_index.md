@@ -153,7 +153,7 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: posts
+    id: Posts
     content:
       title: Recent Posts
       subtitle: ''
@@ -214,21 +214,21 @@ sections:
  #       {{< gallery album="demo" >}}
  #   design:
  #     columns: '1'
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
+ # - block: collection
+ #   id: talks
+ #   content:
+ #     title: Recent & Upcoming Talks
+ #     filters:
+ #       folders:
+ #         - event
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+ # - block: tag_cloud
+ #   content:
+ #     title: Popular Topics
+ #   design:
+ #     columns: '2'
   - block: contact
     id: contact
     content:
