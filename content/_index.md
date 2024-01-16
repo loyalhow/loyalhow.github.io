@@ -55,7 +55,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Lab Manager
-          institute: East China Normal University
+          company: East China Normal University
           company_url: 'https://english.ecnu.edu.cn/'
           company_logo: ecnu_logo
           location: Shanghai
