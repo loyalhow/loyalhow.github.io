@@ -56,8 +56,8 @@ sections:
       items:
         - title: Lab Manager
           institute: East China Normal University
-          company_url: ''
-          company_logo: org-gc
+          company_url: 'https://english.ecnu.edu.cn/'
+          company_logo: ecnu_logo
           location: Shanghai
           date_start: '2020-03-01'
           date_end: '2021-05-31'
@@ -66,7 +66,7 @@ sections:
         - title: Team Lead, Operational Excellence
           company: Supermonkey Fitness
           company_url: ''
-          company_logo: org-x
+          company_logo: supermonkey_logo
           location: Shanghai
           date_start: '2018-09-01'
           date_end: '2019-10-01'
@@ -74,14 +74,14 @@ sections:
         - title: Sourcing Specialist
           company: Walmart Global Sourcing
           company_url: ''
-          company_logo: org-x
+          company_logo: walmart_logo
           location: Shanghai
           date_start: '2016-05-01'
           date_end: '2018-09-01'
         - title: Consultant
           company: Environmental Resource Management (ERM)
           company_url: ''
-          company_logo: org-x
+          company_logo: erm_logo
           location: Shanghai
           date_start: '2015-10-01'
           date_end: '2016-04-01'
