@@ -191,9 +191,9 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: posts
+    id: post
     content:
-      title: post
+      title: Posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
