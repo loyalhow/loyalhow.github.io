@@ -57,7 +57,7 @@ sections:
         - title: Lab Manager
           company: East China Normal University
           company_url: 'https://english.ecnu.edu.cn/'
-          company_logo: ecnu_logo
+          company_logo: ecnu
           location: Shanghai
           date_start: '2020-03-01'
           date_end: '2021-05-31'
@@ -66,7 +66,7 @@ sections:
         - title: Team Lead, Operational Excellence
           company: Supermonkey Fitness
           company_url: ''
-          company_logo: supermonkey_logo
+          company_logo: supermonkey
           location: Shanghai
           date_start: '2018-09-01'
           date_end: '2019-10-01'
@@ -81,7 +81,7 @@ sections:
         - title: Consultant
           company: Environmental Resource Management (ERM)
           company_url: 'https://www.erm.com/'
-          company_logo: erm_logo
+          company_logo: erm
           location: Shanghai
           date_start: '2015-10-01'
           date_end: '2016-04-01'
