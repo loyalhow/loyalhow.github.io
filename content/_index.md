@@ -66,22 +66,22 @@ sections:
         - title: Team Lead, Operational Excellence
           company: Supermonkey Fitness
           company_url: ''
-          company_logo: ecnu_logo
+          company_logo: supermonkey_logo
           location: Shanghai
           date_start: '2018-09-01'
           date_end: '2019-10-01'
           description: Led a team of 4 members
         - title: Sourcing Specialist
           company: Walmart Global Sourcing
-          company_url: ''
-          company_logo: ecnu_logo
+          company_url: 'https://corporate.walmart.com/purpose/sustainability/people/responsible-sourcing'
+          company_logo: walmart_logo
           location: Shanghai
           date_start: '2016-05-01'
           date_end: '2018-09-01'
         - title: Consultant
           company: Environmental Resource Management (ERM)
-          company_url: ''
-          company_logo: ecnu_logo
+          company_url: 'https://www.erm.com/'
+          company_logo: erm_logo
           location: Shanghai
           date_start: '2015-10-01'
           date_end: '2016-04-01'
