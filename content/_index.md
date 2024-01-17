@@ -74,7 +74,7 @@ sections:
         - title: Sourcing Specialist
           company: Walmart Global Sourcing
           company_url: 'https://corporate.walmart.com/purpose/sustainability/people/responsible-sourcing'
-          company_logo: walmart_logo
+          company_logo: walmart
           location: Shanghai
           date_start: '2016-05-01'
           date_end: '2018-09-01'
