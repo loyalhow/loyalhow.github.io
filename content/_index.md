@@ -57,7 +57,7 @@ sections:
         - title: Lab Manager
           company: East China Normal University
           company_url: 'https://english.ecnu.edu.cn/'
-          company_logo: ecnu
+          company_logo: ecnu-logo
           location: Shanghai
           date_start: '2020-03-01'
           date_end: '2021-05-31'
@@ -65,8 +65,8 @@ sections:
               Responsibilities include:
         - title: Team Lead, Operational Excellence
           company: Supermonkey Fitness
-          company_url: ''
-          company_logo: supermonkey
+          company_url: 'https://www.supermonkey.com.cn/'
+          company_logo: supermonkey-logo
           location: Shanghai
           date_start: '2018-09-01'
           date_end: '2019-10-01'
