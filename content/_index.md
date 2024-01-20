@@ -70,7 +70,7 @@ sections:
           location: Shanghai
           date_start: '2018-09-01'
           date_end: '2019-10-01'
-          description: Led a team of 4 members
+          # description: 
         - title: Sourcing Specialist
           company: Walmart Global Sourcing
           company_url: 'https://corporate.walmart.com/purpose/sustainability/people/responsible-sourcing'
@@ -163,12 +163,12 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-12-13'
           description: ''
           icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Xi'an Jiaotong-Liverpool University
+          organization_url: https://www.xjtlu.edu.cn/en/news/2023/12/2023-postgraduate-symposium
+          title: Best Poster Award at Postgraduate Research Symposium
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
@@ -179,15 +179,15 @@ sections:
           organization_url: https://www.edx.org
           title: Blockchain Fundamentals
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+      #  - certificate_url: https://www.datacamp.com
+      #    date_end: '2020-12-21'
+      #    date_start: '2020-07-01'
+      #    description: ''
+      #    icon: datacamp
+      #    organization: DataCamp
+      #    organization_url: https://www.datacamp.com
+      #    title: 'Object-Oriented Programming in R'
+      #    url: ''
     design:
       columns: '2'
   - block: collection
