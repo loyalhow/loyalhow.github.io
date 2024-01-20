@@ -134,5 +134,5 @@ social:
 highlight_name: true
 ---
 
-Hao Liu is a PhD student at eBiogeochem Lab, Xi'an Jiaotong-Liverpool University. His research interest includes greenhouse gas fluxes at soil-water/air-water interface, organic matters across soil-water interfaces, and lab automation in environmental sciences. He has developed a Cartesian robot system for investigating mesocosms, IoT-based modular devices for closed microbial ecosystems, and an automatic fluid control system for sampling porewaters.
+Hao Liu is a PhD student at eBiogeochem Lab, Xi'an Jiaotong-Liverpool University. His research interest includes greenhouse gas fluxes at soil-water/air-water interfaces, organic matters across soil-water interfaces, and lab automation in environmental sciences. He has developed a Cartesian robot system for investigating meso-scale models, IoT-based modular devices for closed microbial ecosystems, and an automatic fluid control system for sampling porewaters.
 {style="text-align: justify;"}
