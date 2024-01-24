@@ -165,19 +165,19 @@ sections:
           date_end: ''
           date_start: '2023-12-13'
           description: ''
-          icon: coursera
+          icon: xjtlu
           organization: Xi'an Jiaotong-Liverpool University
           organization_url: https://www.xjtlu.edu.cn/en/news/2023/12/2023-postgraduate-symposium
           title: Best Poster Award at Postgraduate Research Symposium
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: uploads/poster_2023.pdf
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
+          date_start: '2022-12-15'
+          description: ''
+          icon: xjtlu
+          organization: Xi'an Jiaotong-Liverpool University
           organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          title: Excellent Poster Award at Postgraduate Research Symposium
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
       #  - certificate_url: https://www.datacamp.com
       #    date_end: '2020-12-21'
