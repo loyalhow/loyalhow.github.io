@@ -170,7 +170,7 @@ sections:
           organization_url: https://www.xjtlu.edu.cn/en
           title: Best Poster Award at Postgraduate Research Symposium
           url: https://www.xjtlu.edu.cn/en/news/2023/12/2023-postgraduate-symposium
-        - certificate_url: uploads/poster_2023.pdf
+        - certificate_url: uploads/poster_2022.pdf
           date_end: ''
           date_start: '2022-12-15'
           description: ''
