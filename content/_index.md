@@ -167,18 +167,18 @@ sections:
           description: ''
           icon: xjtlu
           organization: Xi'an Jiaotong-Liverpool University
-          organization_url: https://www.xjtlu.edu.cn/en/news/2023/12/2023-postgraduate-symposium
+          organization_url: https://www.xjtlu.edu.cn/en
           title: Best Poster Award at Postgraduate Research Symposium
-          url: ''
+          url: https://www.xjtlu.edu.cn/en/news/2023/12/2023-postgraduate-symposium
         - certificate_url: uploads/poster_2023.pdf
           date_end: ''
           date_start: '2022-12-15'
           description: ''
           icon: xjtlu
           organization: Xi'an Jiaotong-Liverpool University
-          organization_url: https://www.edx.org
+          organization_url: https://www.xjtlu.edu.cn/en
           title: Excellent Poster Award at Postgraduate Research Symposium
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          url: https://www.xjtlu.edu.cn/en/news/2022/12/xjtlu-postgraduate-research-symposium
       #  - certificate_url: https://www.datacamp.com
       #    date_end: '2020-12-21'
       #    date_start: '2020-07-01'
