@@ -161,6 +161,15 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: uploads/poster_2022.pdf
+          date_end: ''
+          date_start: '2024-05-11'
+          description: ''
+          icon: necds
+          organization: School of Environment, Tsinghua University
+          organization_url: https://www.env.tsinghua.edu.cn
+          title: Best Oral Presentation Award at the 18th National Environmental Conference for Doctoral Students
+          url: https://ndac.env.tsinghua.edu.cn/en/index.htm
         - certificate_url: uploads/poster_2023.pdf
           date_end: ''
           date_start: '2023-12-13'
