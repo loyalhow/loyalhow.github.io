@@ -5,8 +5,8 @@ title: 'A Cartesian Robot for In-situ Monitoring and Sampling Across Soil-Water 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Zheng Chen
+  - admin
   - Peng Zhao
   - Yining Zhang
 
@@ -19,7 +19,7 @@ date: '2013-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-05-27T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -30,10 +30,10 @@ publication_types: ['patent']
 publication: In *China National Intellectual Property Administration*
 publication_short: In *CNIPA*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The laboratory equipment for in-situ testing and sampling at the soil-water interface features a Cartesian robot with four-axis motion capabilities (three degrees of freedom), designated for the area of environmental sciences. The Cartesian robot is equipped with a quick-release tool adapter that can be fitted with various tools, including a coordinate measuring robot, an online gas flux measurement tool, an in-situ microelectrode measurement tool, a high-resolution liquid handling tool, and a soil sampling tool. These tools allow for real-time monitoring of gas exchange at the soil-water interface, tracking changes in physical and chemical parameters at the interface, collecting overlying water samples, and in-situ soil sampling.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: The Cartesian robot with a quick-release tool adapter enables real-time monitoring and sampling at the soil-water interface for comprehensive analysis in the mesocosm studies.
 
 tags: []
 
