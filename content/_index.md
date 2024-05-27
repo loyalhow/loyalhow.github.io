@@ -170,6 +170,15 @@ sections:
           organization_url: https://www.env.tsinghua.edu.cn
           title: Best Oral Presentation Award at the 18th National Environmental Conference for Doctoral Students
           url: https://ndac.env.tsinghua.edu.cn/en/index.htm
+        - certificate_url: 
+          date_end: ''
+          date_start: '2024-04-20'
+          description: ''
+          icon: DWA_UCC
+          organization: German Association for Water, Wastewater and Waste (DWA)
+          organization_url: https://en.dwa.de/en/university-challenge.html
+          title: 2nd Prize Winner at University Challenge China
+          url: https://www.xjtlu.edu.cn/en/news/2024/04/second-prize-in-the-dwa-2
         - certificate_url: uploads/poster_2023.pdf
           date_end: ''
           date_start: '2023-12-13'
