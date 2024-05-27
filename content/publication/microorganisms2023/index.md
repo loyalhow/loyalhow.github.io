@@ -1,6 +1,5 @@
 ---
-title: "Urbanization Reduces Phyllosphere Microbial Network
-Complexity and Species Richness of Camphor Trees"
+title: "Urbanization Reduces Phyllosphere Microbial Network Complexity and Species Richness of Camphor Trees"
 authors:
 - Yifang Zhang
 - Xiaomin Li
