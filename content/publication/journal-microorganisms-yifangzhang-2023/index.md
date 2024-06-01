@@ -31,8 +31,7 @@ publication_short: ""
 abstract: Studies on microbial communities associated with foliage in natural ecosystems have grown in number in recent years yet have rarely focused on urban ecosystems. With urbanization, phyllosphere microorganisms in the urban environment have come under pressures from increasing human activities. To explore the effects of urbanization on the phyllosphere microbial communities of urban ecosystems, we investigated the phyllosphere microbial structure and the diversity of camphor trees in eight parks along a suburban-to-urban gradient. 
 
 # Summary. An optional shortened abstract.
-keywords: phyllosphere microbiota; epiphytes; co-occurrence networks; urban parks; suburban;
-microbial diversity
+keywords: phyllosphere microbiota; epiphytes; co-occurrence networks; urban parks; suburban; microbial diversity
 
 tags:
 - Source Themes
