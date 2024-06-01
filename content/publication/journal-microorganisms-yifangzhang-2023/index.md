@@ -37,8 +37,7 @@ trees in eight parks along a suburban-to-urban gradient. The results showed that
 ASVs (amplicon sequence variants), unique on the phyllosphere microbial communities of three
 different urbanization gradients, was 4.54 to 17.99 times higher than that of the shared ASVs. Specific
 microbial biomarkers were also found for leaf samples from each urbanization gradient. Moreover,
-significant differences (R
-2 = 0.133, p = 0.005) were observed in the phyllosphere microbial structure
+significant differences (R^2 = 0.133, p = 0.005) were observed in the phyllosphere microbial structure
 among the three urbanization gradients. Alpha diversity and co-occurrence patterns of bacterial
 communities showed that urbanization can strongly reduce the complexity and species richness
 of the phyllosphere microbial network of camphor trees. Correlation analysis with environmental
