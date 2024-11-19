@@ -165,7 +165,7 @@ sections:
           date_end: '2024-10-26'
           date_start: '2024-10-23'
           description: ''
-          icon: igem
+          icon: igem-dark-logo
           organization: International Genetically Engineered Machines (iGEM)
           organization_url: https://igem.org/
           title: Gold Medal, XJTLU-Software Team at 2024 iGEM Competition
