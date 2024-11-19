@@ -164,11 +164,11 @@ sections:
         - certificate_url: uploads/igem-certificates-2024-5256-member.pdf
           date_end: '2024-10-26'
           date_start: '2024-10-23'
-          description: '2024 Competition'
-          icon: necds
+          description: ''
+          icon: igem
           organization: International Genetically Engineered Machines (iGEM)
           organization_url: https://igem.org/
-          title: Gold Medal, XJTLU-Software Team as Advisor
+          title: Gold Medal, XJTLU-Software Team at 2024 iGEM Competition
           url: https://mp.weixin.qq.com/s/y0i5QV7g_FquOZhuZEd_Gw
         - certificate_url: uploads/poster_2022.pdf
           date_end: ''
