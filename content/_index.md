@@ -179,7 +179,7 @@ sections:
           organization_url: https://www.env.tsinghua.edu.cn
           title: Best Oral Presentation Award at the 18th National Environmental Conference for Doctoral Students
           url: https://ndac.env.tsinghua.edu.cn/en/index.htm
-        - certificate_url: 
+        - certificate_url: uploads/2nd_prize_dwa_ucc_certificate.pdf
           date_end: ''
           date_start: '2024-04-20'
           description: ''
